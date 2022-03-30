@@ -1,0 +1,5 @@
+# > 网易云音乐去广告
+host, admusicpic.music.126.net, reject
+host, iadmat.nosdn.127.net, reject
+host, iadmusicmat.music.126.net, reject
+host, iadmusicmatvideo.music.126.net, reject
