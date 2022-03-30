@@ -1,0 +1,7 @@
+# > 区域匹配
+geoip, us, proxy
+geoip, google, proxy
+geoip, twitter, proxy
+geoip, telegram, proxy
+geoip, facebook, proxy
+geoip, netflix, proxy
